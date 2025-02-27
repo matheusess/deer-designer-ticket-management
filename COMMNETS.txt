@@ -1,0 +1,7 @@
+Hi! Thanks for the opportunity.
+
+I wasn’t sure how much time I had, so I did it as quickly as I could. Ideally, I would prefer to use Next.js and Tailwind for the frontend lib—it's more semantic and neat. :)
+
+Hope you enjoy it, cheers!
+
+Matheus
