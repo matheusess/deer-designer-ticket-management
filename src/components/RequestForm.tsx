@@ -4,9 +4,9 @@ import { useRequestForm } from "../hooks/useRequestForm"; // 🔥 Import do hook
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const teamMembers = [
-  { id: 1, name: "Alice", skills: ["Frontend"] },
-  { id: 2, name: "Bob", skills: ["Backend"] },
-  { id: 3, name: "Charlie", skills: ["Fullstack"] },
+  { id: 1, name: "Thiago Carvalho", skills: ["Founder"] },
+  { id: 2, name: "Matheus Emmanuel", skills: ["TechLead"] },
+  { id: 3, name: "Nadine Garcia", skills: ["People"] },
 ];
 
 const RequestForm: React.FC<RequestFormProps> = ({ onTicketAdded }) => {
